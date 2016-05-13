@@ -1,1 +1,1 @@
-# iSmart-Application
+# iSmart Application
